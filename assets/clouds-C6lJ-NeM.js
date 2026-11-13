@@ -1,4 +1,4 @@
-import{$r as e,Ni as t,Rn as n,U as r,V as i,Wi as a,ir as o,no as s,ro as c,ut as l}from"./three.core-BF58tRDi.js";import{r as u,t as d}from"./globals-DAxe_AO1.js";import{l as f,u as p}from"./index-B3EICsYF.js";import{n as m,t as h}from"./shape-B4XZ7pSn.js";import{n as g}from"./config-OM6otvPM.js";var _=-5,v=`
+import{$r as e,Ni as t,Rn as n,U as r,V as i,Wi as a,ir as o,no as s,ro as c,ut as l}from"./three.core-BF58tRDi.js";import{r as u,t as d}from"./globals-DAxe_AO1.js";import{l as f,u as p}from"./index-ChqJ2Hv-.js";import{n as m,t as h}from"./shape-B4XZ7pSn.js";import{n as g}from"./config-OM6otvPM.js";var _=-5,v=`
 precision highp float; precision highp sampler3D;
 in vec2 vUv; out vec4 outColor;
 uniform sampler2D tDepth; uniform sampler3D tShape, tNoise;

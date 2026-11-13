@@ -1,4 +1,4 @@
-import{Dt as e,Lt as t,an as n,ar as r,in as i,io as a,qt as o,ro as s,ta as c}from"./three.core-BF58tRDi.js";import{a as l,i as u,o as d}from"./game-BLNLoFCW.js";import{t as f}from"./text-B6j2B2P2.js";import{r as p,t as m}from"./globals-DAxe_AO1.js";import{t as h}from"./config-OM6otvPM.js";import{a as g,i as _,n as v,o as y,r as b,t as x}from"./glsl-jfSPpDur.js";import{n as S}from"./snap-BWzZWSsl.js";import{a as C}from"./terrain-ClIc0rnk.js";var w=5,T=`
+import{Dt as e,Lt as t,an as n,ar as r,in as i,io as a,qt as o,ro as s,ta as c}from"./three.core-BF58tRDi.js";import{a as l,i as u,o as d}from"./game-Ho_58QqJ.js";import{t as f}from"./text-B6j2B2P2.js";import{r as p,t as m}from"./globals-DAxe_AO1.js";import{t as h}from"./config-OM6otvPM.js";import{a as g,i as _,n as v,o as y,r as b,t as x}from"./glsl-D-ntG5ZQ.js";import{n as S}from"./snap-BWzZWSsl.js";import{a as C}from"./terrain-ClIc0rnk.js";var w=5,T=`
 ${p}
 ${x}
 attribute vec2 aPart;                  // x: 0 core, 1 mote, 2 thread;  y: mote index

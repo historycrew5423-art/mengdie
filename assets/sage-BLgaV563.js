@@ -1,4 +1,4 @@
-import{U as e,ar as t,mr as n,qt as r}from"./three.core-BF58tRDi.js";import{a as i,c as a,i as o,n as s,o as c,r as l,s as u}from"./index-B3EICsYF.js";import{t as d}from"./config-OM6otvPM.js";var f=[`rock_boulder_dry`,`rough_linen`],p=`
+import{U as e,ar as t,mr as n,qt as r}from"./three.core-BF58tRDi.js";import{a as i,c as a,i as o,n as s,o as c,r as l,s as u}from"./index-ChqJ2Hv-.js";import{t as d}from"./config-OM6otvPM.js";var f=[`rock_boulder_dry`,`rough_linen`],p=`
 ${s}
 varying vec4 vTCol;
 uniform sampler2DArray tSgA, tSgN;

@@ -1,4 +1,4 @@
-import{U as e,io as t,mr as n,sr as r}from"./three.core-BF58tRDi.js";import{o as i}from"./globals-DAxe_AO1.js";import{a,o}from"./index-B3EICsYF.js";var s={uVegK:{value:new t(1,0,0,0)},uVegFill:{value:.75}},c=`
+import{U as e,io as t,mr as n,sr as r}from"./three.core-BF58tRDi.js";import{o as i}from"./globals-DAxe_AO1.js";import{a,o}from"./index-ChqJ2Hv-.js";var s={uVegK:{value:new t(1,0,0,0)},uVegFill:{value:.75}},c=`
 #ifdef VEG_STATIC
   #define iPos vec4(0.0, 0.0, 0.0, 1.0)
   #define iQuat vec4(0.0, 0.0, 0.0, 1.0)
